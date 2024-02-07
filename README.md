@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @dmgts
-- 👀 I’m interested in data analytics, machine/ deep learning and ai 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any project around machine learning or data analysis that I can contribute
+- 👋 Hi, I’m @dimitrigatsos
+- 👀 A trained and experienced teacher attempting a carrer change into data analytics, or database administration
+- 📊 Have years experince as Data Analytics Assistant using mainly Excel
+- 🌱 I’m currently learning python, and SQL
+- 💞️ I’m looking to collaborate on any project around data analytics (especially around Education)
 - 📫 How to reach me dimitgatsos@gmail.com
 
 <!---
