@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dimitrigatsos
-- 👀 A trained and experienced teacher attempting a carrer change into data analytics, or database administration
+- 👀 A trained and experienced teacher attempting a career change into data analytics, or database administration
 - 📊 Have years experince as Data Analytics Assistant using mainly Excel
 - 🌱 I’m currently learning python, and SQL
 - 💞️ I’m looking to collaborate on any project around data analytics (especially around Education)
