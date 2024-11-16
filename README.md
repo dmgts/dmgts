@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dimitrigatsos
-- 👀 A trained and experienced teacher attempting a career change into a full-time data related role.
-- 📊 I have experience as Data Analytics Assistant using mainly Excel and a custom data tool.
+- 📊 I have experience in Data Analytics using mainly Excel and a custom data tool for a Value betting syndicate, dealing mainly with tipster performance data (avg. ods, roi, yield etc) and account performance data (roc, avg stakes, amount played etc).
 - 🌱 I’m currently learning python, and SQL.
 - 💞️ I’m looking to collaborate on any project around data analytics.
 - 📫 How to reach me: contact@dmgatsos.com
